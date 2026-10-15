@@ -1,0 +1,6 @@
+{
+  "name": "ide-pane",
+  "version": "0.1.0",
+  "description": "IDE のサイドバーのように TODO・問題・変更の 3 タブを出すペイン。Claude の編集に合わせて数え直す",
+  "types": "./types/index.d.ts"
+}
